@@ -49,8 +49,8 @@ Full Stack Development (MERN) – Cipher Schools (July 2024)
 
 📧 Email: adipudinagendrababu@gmail.com
 
-💼 LinkedIn: Adipudi Nagendra Babu
+💼 LinkedIn: linkedin.com/in/adipudi-nagendra-babu-430977347
 
-🌐 GitHub: nagadarling
+🌐 GitHub: github.com/nagadarling
 
 ⭐ I’m passionate about building real-world applications and always open to collaborations & learning new technologies.
